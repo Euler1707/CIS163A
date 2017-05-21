@@ -1,5 +1,5 @@
 // Chapter 4 
-// Writen by Edgar Colin EDG2140344
+// Writen by Erik Colin EDG2140344
 // Sept 1th 2016
 // Class: CIS163 Java I
 // Prof: Michael Parmeley
@@ -15,7 +15,9 @@ public class Die
 {
 
    int dieValue;
+   int ErikInterger;
    
+   ErikInterger =10;
    public int Die()
    {
    
