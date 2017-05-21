@@ -18,7 +18,8 @@ public class GasPrices // Class Gas Prices
       
       Scanner keyboard = new Scanner(System.in);
       // Assigns Scanner to keyboard.
-      
+      int hello; 
+      int hello = 0;
       
       // Message asking user to enter a dollar amount.
       System.out.print("Please enter the current price \nper " +
