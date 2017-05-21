@@ -3,6 +3,9 @@
 // Class: CIS163 Java I
 // Prof: Michael Parmeley
 // Section 14887
+
+// This is an update 
+
 import java.text.DecimalFormat;
 import java.util.Scanner; // Imports Scanner Utility
 
