@@ -1,0 +1,6 @@
+Exercise1_Data.txt
+
+The Cauchy distribution, also called the Lorentzian distribution or Lorentz distribution, 
+is a continuous distribution describing resonance behavior. It also describes the 
+distribution of horizontal distances at which a line segment tilted at a random angle 
+cuts the x-axis.
